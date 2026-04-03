@@ -4,7 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Repo Is
 
-`precepts-standards` is the canonical source of multi-discipline standards for the Precepts platform. It contains machine-readable standards (Markdown + YAML frontmatter) consumable by both humans and AI agents.
+`precepts-dev/standards` is the canonical source of multi-discipline standards for the Precepts platform. It contains machine-readable standards (Markdown + YAML frontmatter) consumable by both humans and AI agents.
+
+**GitHub org:** `precepts-dev`
 
 **License:** CC BY-SA 4.0. All content is open.
 
@@ -47,6 +49,6 @@ Each standard has YAML frontmatter with required fields: `identifier`, `name`, `
 ## Consumers
 
 This package is consumed by:
-- `precepts` repo (Docusaurus site, MCP server, validator)
-- `precepts-engine` (commercial compliance scanner - separate private repo)
+- `precepts-dev/platform` repo (Docusaurus site, MCP server, validator)
+- `precepts-dev/engine` (commercial compliance scanner - separate private repo)
 - Any third party building tooling around Precepts standards
