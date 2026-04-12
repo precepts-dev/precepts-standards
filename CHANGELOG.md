@@ -1,3 +1,9 @@
+## [0.2.0](https://github.com/precepts-dev/standards/compare/v0.1.4...v0.2.0) (2026-04-12)
+
+### Features
+
+* **intg:** populate INTG-GOV-001 integration styles governance ([#2](https://github.com/precepts-dev/standards/issues/2)) ([69e928b](https://github.com/precepts-dev/standards/commit/69e928bdcffbba6d48e540b699f9bd0f67b8cd3e))
+
 ## [0.1.4](https://github.com/precepts-dev/standards/compare/v0.1.3...v0.1.4) (2026-04-12)
 
 ### Bug Fixes
