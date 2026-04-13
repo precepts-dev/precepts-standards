@@ -269,7 +269,7 @@ OpenAPI schemas **MUST** declare `amount` as `type: string` with `pattern: "^-?[
 ### Normative
 
 - [ISO 4217 — Currency Codes](https://www.iso.org/iso-4217-currency-codes.html)
-- [INTG-STD-004 — Naming Conventions](./naming-conventions.md) (field naming rules)
+- [INTG-STD-004 — Naming Conventions](../foundational/naming-conventions.md) (field naming rules)
 - [INTG-STD-002 — Datetime Formats](./datetime-formats.md) (timestamps in exchange rate objects)
 
 ### Informative
