@@ -833,5 +833,5 @@ this decision to design time.
 
 | Version | Date       | Change |
 | ------- | ---------- | ------ |
-| 1.0.0   | 2026-02-17 | First Scaffold |
+| 1.0.0   | 2026-02-17 | Initial Scaffold |
 | 1.1.0   | 2026-04-12 | Full content: nine-style catalogue, coupling taxonomy, selection framework, governance rules R-1–R-7, AI/agent governance, cross-cutting requirements, multi-order validation |
