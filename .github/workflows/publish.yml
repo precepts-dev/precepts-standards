@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
 
-      - uses: actions/setup-node@v5
+      - uses: actions/setup-node@v6
         with:
-          node-version: 22  # LTS — sufficient for schema validation
+          node-version: 24  # Active LTS — aligns with release job
           cache: 'npm'
 
       - name: Install dependencies
@@ -42,12 +42,12 @@ jobs:
           owner: precepts-dev
           repositories: "standards,platform"
 
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
           token: ${{ steps.app-token.outputs.token }}
 
-      - uses: actions/setup-node@v5
+      - uses: actions/setup-node@v6
         with:
           node-version: 24  # Node 24 required for npm OIDC Trusted Publishing
           registry-url: https://registry.npmjs.org
