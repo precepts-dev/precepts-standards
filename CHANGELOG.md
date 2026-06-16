@@ -1,3 +1,9 @@
+## [0.4.0](https://github.com/precepts-dev/standards/compare/v0.3.1...v0.4.0) (2026-06-16)
+
+### Features
+
+* **ux:** Add UX accessibility, interaction, color tokens ([#15](https://github.com/precepts-dev/standards/issues/15)) ([8107fa6](https://github.com/precepts-dev/standards/commit/8107fa6aa10ea9bc07c9355109e6f2a6adefcccf))
+
 ## [0.3.1](https://github.com/precepts-dev/standards/compare/v0.3.0...v0.3.1) (2026-05-05)
 
 ### Bug Fixes
