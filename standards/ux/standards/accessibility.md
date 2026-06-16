@@ -135,3 +135,4 @@ Content **MUST** be formatted using standard, semantic structural elements to fa
 | Version | Date       | Change                            |
 | ------- | ---------- | --------------------------------- |
 | 1.0.0   | 2026-06-16 | Initial definition; gold standard |
+
