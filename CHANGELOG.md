@@ -1,3 +1,9 @@
+## [0.4.1](https://github.com/precepts-dev/standards/compare/v0.4.0...v0.4.1) (2026-06-16)
+
+### Bug Fixes
+
+* **ux:** Add initial version entry for accessibility standards ([#16](https://github.com/precepts-dev/standards/issues/16)) ([fc6c882](https://github.com/precepts-dev/standards/commit/fc6c88260be791e188d02c5c74b46eb121bea6ba))
+
 ## [0.4.0](https://github.com/precepts-dev/standards/compare/v0.3.1...v0.4.0) (2026-06-16)
 
 ### Features
