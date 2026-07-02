@@ -6,6 +6,7 @@ on:
       - 'standards/**'
       - 'schema/**'
       - 'tools/**'
+      - .github/**
 
 jobs:
   validate:
