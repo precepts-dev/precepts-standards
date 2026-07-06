@@ -38,11 +38,10 @@ jobs:
         id: app-token
         with:
           client-id: ${{ vars.APP_CLIENT_ID }}`
+          app-id: ${{ secrets.APP_ID }}
           private-key: ${{ secrets.APP_PRIVATE_KEY }}
           owner: ${{ github.repository_owner }}
-          repositories: |
-            standards
-            platform
+          repositories: ${{ github.repository }}, platform
 
       - uses: actions/checkout@v6
         with:
