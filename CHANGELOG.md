@@ -1,3 +1,9 @@
+## [0.4.2](https://github.com/precepts-dev/standards/compare/v0.4.1...v0.4.2) (2026-07-06)
+
+### Bug Fixes
+
+* **ci:** remove special character ([#21](https://github.com/precepts-dev/standards/issues/21)) ([1734d51](https://github.com/precepts-dev/standards/commit/1734d5114f9fb7e87c38f4792ee5d8ba43252e00))
+
 ## [0.4.1](https://github.com/precepts-dev/standards/compare/v0.4.0...v0.4.1) (2026-06-16)
 
 ### Bug Fixes
