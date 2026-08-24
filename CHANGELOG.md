@@ -1,3 +1,9 @@
+## [0.4.3](https://github.com/precepts-dev/standards/compare/v0.4.2...v0.4.3) (2026-08-24)
+
+### Bug Fixes
+
+* **directory:** Rename product requirement document path ([#23](https://github.com/precepts-dev/standards/issues/23)) ([4c51829](https://github.com/precepts-dev/standards/commit/4c518290c2949e772c081effcd90a512952a6e4b))
+
 ## [0.4.2](https://github.com/precepts-dev/standards/compare/v0.4.1...v0.4.2) (2026-07-06)
 
 ### Bug Fixes
