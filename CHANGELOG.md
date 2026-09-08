@@ -1,3 +1,9 @@
+## [0.5.1](https://github.com/precepts-dev/standards/compare/v0.5.0...v0.5.1) (2026-09-08)
+
+### Bug Fixes
+
+* **integration:** rate limiting wordings ([#25](https://github.com/precepts-dev/standards/issues/25)) ([f6e2099](https://github.com/precepts-dev/standards/commit/f6e2099a054621b338824254373315371eaa4870))
+
 ## [0.5.0](https://github.com/precepts-dev/standards/compare/v0.4.3...v0.5.0) (2026-09-08)
 
 ### Features
