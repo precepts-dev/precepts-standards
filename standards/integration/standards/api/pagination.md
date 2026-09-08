@@ -226,8 +226,8 @@ HTTP/1.1 200 OK
 - [Google AIP-158 - Pagination](https://google.aip.dev/158)
 - [Zalando RESTful API Guidelines - Pagination](https://opensource.zalando.com/restful-api-guidelines/#pagination)
 - [Relay Cursor Connections Specification](https://relay.dev/graphql/connections.htm)
-- [INTG-STD-004 - Naming Conventions](internal) — snake_case query parameters
-- [INTG-STD-008 - Resource Design](internal) — collection endpoint requirements
+- INTG-STD-004 - Naming Conventions
+- INTG-STD-008 - Resource Design
 
 ## Rationale
 

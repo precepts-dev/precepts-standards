@@ -227,8 +227,8 @@ X-Correlation-ID: 3c6e0b8a-9c0a-45af-9db8-0b2e1f4b5c7d
 - [RFC 9457 - Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc9457.html) — per-item error format
 - [RFC 4918 - HTTP Extensions for WebDAV](https://www.rfc-editor.org/rfc/rfc4918.html) — 207 Multi-Status origin
 - [Google Cloud API Design Guide - Common Patterns](https://cloud.google.com/apis/design/design_patterns#list_sub-collections) — long-running operations
-- [INTG-STD-009 - Error Handling](internal) — RFC 9457 error format, validation error arrays
-- [INTG-STD-016 - HTTP Header Standards](internal) — correlation headers
+- INTG-STD-009 - Error Handling
+- INTG-STD-016 - HTTP Header Standards
 
 ## Rationale
 

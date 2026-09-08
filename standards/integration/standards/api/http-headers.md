@@ -210,10 +210,10 @@ GET /v1/orders?api_key=sk_live_abc123 HTTP/1.1
 - [IETF draft-ietf-httpapi-ratelimit-headers](https://datatracker.ietf.org/doc/draft-ietf-httpapi-ratelimit-headers/)
 - [W3C Trace Context](https://www.w3.org/TR/trace-context/)
 - [OWASP Secure Headers Project](https://owasp.org/www-project-secure-headers/)
-- [INTG-STD-009 - Error Handling](internal) — correlation ID in error bodies
-- [INTG-STD-029 - Integration Observability](internal) — traceparent propagation
-- [SEC-STD-001 - Identity and Access Management](internal) — OAuth 2.0 / Bearer tokens
-- [SEC-STD-003 - Cryptography and Transport Security](internal) — HSTS, TLS requirements
+- INTG-STD-009 - Error Handling
+- INTG-STD-029 - Integration Observability
+- SEC-STD-001 - Identity and Access Management
+- SEC-STD-003 - Cryptography and Transport Security
 
 ## Rationale
 
