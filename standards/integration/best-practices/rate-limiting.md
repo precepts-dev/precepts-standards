@@ -221,7 +221,7 @@ function call_api(request):
 
 **Why fail-open on limiter failure?** A failed rate limiter that rejects all traffic causes a total outage. Fail-open preserves availability at the cost of temporary over-admission, which is typically less severe than a complete service outage.
 
-**Why prohibit API keys as authentication?** API keys are static, long-lived, and lack standard expiry, rotation, or scope mechanisms. They are routinely leaked in logs, URLs, and source repositories. OAuth 2.0 client credentials provide short-lived tokens with built-in expiry, rotation, and scope. API keys are acceptable only as a client *identification* mechanism (for quota tracking) on legacy systems that cannot adopt OAuth.
+**Why prohibit API keys as authentication?** API keys are static, long-lived, and lack standard expiry, rotation, or scope mechanisms. They are routinely leaked in logs, URLs, and source repositories. OAuth 2.0 client credentials provide short-lived tokens with built-in expiry, rotation, and scope. API keys are acceptable **ONLY** as a client *identification* mechanism (for quota tracking) on legacy systems that cannot adopt OAuth.
 
 **Why progressive degradation?** Hard cutoffs create cliff effects — one request over the limit causes full rejection. Progressive degradation preserves partial functionality, improving consumer experience and reducing retry storms.
 
