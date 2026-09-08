@@ -1,3 +1,9 @@
+## [0.5.0](https://github.com/precepts-dev/standards/compare/v0.4.3...v0.5.0) (2026-09-08)
+
+### Features
+
+* **integration:** add integration standards for API design ([#24](https://github.com/precepts-dev/standards/issues/24)) ([926c916](https://github.com/precepts-dev/standards/commit/926c91627eda32d924411662eaa3ec7999291adc))
+
 ## [0.4.3](https://github.com/precepts-dev/standards/compare/v0.4.2...v0.4.3) (2026-08-24)
 
 ### Bug Fixes
