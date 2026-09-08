@@ -204,11 +204,11 @@ Content-Type: application/problem+json
 - [CloudEvents HTTP Protocol Binding](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/bindings/http-protocol-binding.md)
 - [Stripe Webhooks](https://stripe.com/docs/webhooks) — industry reference implementation
 - [GitHub Webhooks](https://docs.github.com/en/webhooks) — industry reference implementation
-- [INTG-STD-015 - Event Envelope](internal) — CloudEvents envelope
-- [INTG-STD-034 - Retry Policy](internal) — exponential backoff with jitter
-- [INTG-STD-035 - Timeout Standard](internal) — delivery timeout budgets
-- [INTG-GDL-001 - Idempotency Design](internal) — consumer deduplication
-- [SEC-STD-002 - Secrets Management](internal) — signing secret lifecycle
+- INTG-STD-015 - Event Envelope
+- INTG-STD-034 - Retry Policy
+- INTG-STD-035 - Timeout Standard
+- INTG-GDL-001 - Idempotency Design
+- SEC-STD-002 - Secrets Management
 
 ## Rationale
 

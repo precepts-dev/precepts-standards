@@ -179,8 +179,8 @@ Content-Type: application/problem+json
 - [Google AIP-181 - Stability Levels and Versioning](https://google.aip.dev/181)
 - [Zalando RESTful API Guidelines - Deprecation](https://opensource.zalando.com/restful-api-guidelines/#deprecation)
 - [Microsoft REST API Guidelines - Versioning](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md#12-versioning)
-- [INTG-STD-006 - Backward and Forward Compatibility](internal) — compatibility rules
-- [INTG-STD-015 - Event Envelope](internal) — event type version suffix
+- INTG-STD-006 - Backward and Forward Compatibility
+- INTG-STD-015 - Event Envelope
 
 ## Rationale
 

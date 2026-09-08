@@ -181,8 +181,8 @@ Content-Type: application/problem+json
 - [IETF draft-ietf-httpapi-idempotency-key-header](https://datatracker.ietf.org/doc/draft-ietf-httpapi-idempotency-key-header/) — Idempotency-Key header specification
 - [Stripe - Idempotent Requests](https://stripe.com/docs/api/idempotent_requests) — industry reference implementation
 - [AWS Builders Library - Making retries safe](https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/)
-- [INTG-STD-015 - Event Envelope](internal) — source + id uniqueness for event deduplication
-- [INTG-STD-034 - Retry Policy](internal) — retry requires idempotency guarantee
+- INTG-STD-015 - Event Envelope
+- INTG-STD-034 - Retry Policy
 
 ## Rationale
 

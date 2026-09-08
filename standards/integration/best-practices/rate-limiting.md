@@ -207,11 +207,11 @@ function call_api(request):
 - [IETF draft-ietf-httpapi-ratelimit-headers](https://datatracker.ietf.org/doc/draft-ietf-httpapi-ratelimit-headers/)
 - [Stripe Rate Limiting](https://stripe.com/docs/rate-limits) — industry reference
 - [Google Cloud API Design Guide - Quotas](https://cloud.google.com/apis/design/design_patterns#quota)
-- [INTG-STD-009 - Error Handling](internal) — 429 response format
-- [INTG-STD-016 - HTTP Header Standards](internal) — rate-limit headers
-- [INTG-STD-033 - Resilience Patterns](internal) — circuit breakers
-- [INTG-STD-034 - Retry Policy](internal) — exponential backoff with jitter
-- [SEC-STD-001 - Identity and Access Management](internal) — OAuth 2.0 client credentials for client identification
+- INTG-STD-009 - Error Handling
+- INTG-STD-016 - HTTP Header Standards
+- INTG-STD-033 - Resilience Patterns
+- INTG-STD-034 - Retry Policy
+- SEC-STD-001 - Identity and Access Management
 
 ## Rationale
 
