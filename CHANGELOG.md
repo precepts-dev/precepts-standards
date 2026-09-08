@@ -1,3 +1,9 @@
+## [0.5.2](https://github.com/precepts-dev/standards/compare/v0.5.1...v0.5.2) (2026-09-08)
+
+### Bug Fixes
+
+* **integration:** incorrect linking in references ([#26](https://github.com/precepts-dev/standards/issues/26)) ([387cbec](https://github.com/precepts-dev/standards/commit/387cbecf9e33b4fb3b88b896d8c1a8beb3b8fcdd))
+
 ## [0.5.1](https://github.com/precepts-dev/standards/compare/v0.5.0...v0.5.1) (2026-09-08)
 
 ### Bug Fixes
